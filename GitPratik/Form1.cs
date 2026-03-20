@@ -6,5 +6,10 @@ namespace GitPratik
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // yeni özellik branch'inde çalýþýyorum
+        }
     }
 }
